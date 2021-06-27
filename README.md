@@ -9,15 +9,11 @@
 
 
 
-## ✍ My Work
-
-[![Akash Sahu GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashsahu1998&show_icons=true&theme=dark)](https://github.com/Akashsahu1998)
-
-
-
 ## 📚 My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsahu1998&layout=compact&show_icons=true&theme=dark)](https://github.com/Akashsahu1998)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsahu1998&layout=compact&show_icons=true&theme=dark)](https://github.com/Akashsahu1998) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsahu1998&layout=compact&show_icons=true&theme=chartreuse-dark)](https://github.com/Akashsahu1998)
+
 
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,6 +30,22 @@
 
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Skill](https://img.shields.io/badge/Github-0078D4?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+## :bar_chart: Profile Stats
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyaPrasad1209.ShreyaPrasad1209)
+
+
+<!-- ### :musical_keyboard: Profile Stats -->
+
+<!-- [![Akash GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashsahu1998&show_icons=true&theme=dark)](https://github.com/Akashsahu1998) -->
+[![Akash GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashsahu1998&show_icons=true&theme=chartreuse-dark)](https://github.com/Akashsahu1998)
+
+
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashsahu1998&theme=highcontrast" alt="Akash :: Profile Stats" /></p> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashsahu1998&theme=chartreuse-dark" alt="Akash :: Profile Stats" /></p>
 
 
 
