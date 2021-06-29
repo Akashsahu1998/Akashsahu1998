@@ -36,16 +36,13 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akashsahu1998)
 
-
 <!-- ### :musical_keyboard: Profile Stats -->
 
-<!-- [![Akash GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashsahu1998&show_icons=true&theme=dark)](https://github.com/Akashsahu1998) -->
-[![Akash GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashsahu1998&show_icons=true&theme=chartreuse-dark)](https://github.com/Akashsahu1998)
-
-
+<!-- [![Akash GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashsahu1998&show_icons=true&theme=chartreuse-dark)](https://github.com/Akashsahu1998) -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashsahu1998&theme=highcontrast" alt="Akash :: Profile Stats" /></p> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashsahu1998&theme=chartreuse-dark" alt="Akash :: Profile Stats" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Akashsahu1998&show_icons=true&theme=chartreuse-dark" alt="Akash :: Profile Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashsahu1998&theme=chartreuse-dark" alt="Akash :: Profile Stats" />
 
 
 ## 🤝 Connect
