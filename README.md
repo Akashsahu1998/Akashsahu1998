@@ -11,9 +11,7 @@
 
 ## 📚 My Skills
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsahu1998&layout=compact&show_icons=true&theme=dark)](https://github.com/Akashsahu1998) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsahu1998&layout=compact&show_icons=true&theme=chartreuse-dark)](https://github.com/Akashsahu1998)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsahu1998&langs_count=10&theme=chartreuse-dark&layout=compact" alt="Akash:: Top Langs" />
 
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
