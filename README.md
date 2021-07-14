@@ -11,7 +11,7 @@
 
 ## 📚 My Skills
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsahu1998&langs_count=10&theme=chartreuse-dark&layout=compact" alt="Akash:: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsahu1998&langs_count=15&theme=chartreuse-dark&layout=compact" alt="Akash:: Top Langs" />
 
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
