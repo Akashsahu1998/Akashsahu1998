@@ -23,6 +23,7 @@
 
 ![Skill](https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Skill](https://img.shields.io/badge/C++-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Skill](https://img.shields.io/badge/C-00FF00?style=for-the-badge&logo=yarn&logoColor=#696969)
 
 ![Skill](https://img.shields.io/badge/MySQL-ffca28?style=for-the-badge&logo=mysql&logoColor=white)
 ![Skill](https://img.shields.io/badge/MongoDB-F05032?style=for-the-badge&logo=mongodb&logoColor=white)
