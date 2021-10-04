@@ -6,7 +6,7 @@
 - 🌱 I'm currently exploring Angular.
 - 💞️ I'm looking to collaborate on Full Stack, HTML CSS, Angular, Spring Boot project.
 - 📫 How to reach me: [Here](https://www.linkedin.com/in/akashsahuji/)
-- 🌱 Portfolio :- [Here] (https://sahuakash.com)
+- 🌱 Portfolio :- [Here](https://sahuakash.com)
 
 
 ## 📚 My Skills
